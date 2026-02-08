@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ALPHA",
+  "base_artist": "STEREO DIVE FOUNDATION",
+  "createdAt": "2026-02-08T03:33:52.322796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alpha Rats Nest",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/01_Alpha_Rats_Nest_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alpha Rats Nest (Bonus Track)",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/02_Alpha_Rats_Nest_(Bonus_Track)_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Inertia Creeps (Alpha remix)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/03_Inertia_Creeps_(Alpha_remix)_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alpha Male",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/04_Alpha_Male_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alpha",
+      "artist": "Vangelis",
+      "has_synced": true,
+      "path": "select/05_Alpha_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Alpha and the Omega",
+      "artist": "Christian Death",
+      "has_synced": true,
+      "path": "select/06_The_Alpha_and_the_Omega_Christian_Death.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A B-Boy's Alpha",
+      "artist": "Cannibal Ox",
+      "has_synced": true,
+      "path": "select/07_A_B-Boy's_Alpha_Cannibal_Ox.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A B-Boys Alpha",
+      "artist": "Cannibal Ox",
+      "has_synced": true,
+      "path": "select/08_A_B-Boys_Alpha_Cannibal_Ox.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Alpha Beta Parking Lot",
+      "artist": "Cake",
+      "has_synced": true,
+      "path": "select/09_Alpha_Beta_Parking_Lot_Cake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Alpha",
+      "artist": "Anna Calvi",
+      "has_synced": true,
+      "path": "select/10_Alpha_Anna_Calvi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Alpha Female",
+      "artist": "Dot Allison",
+      "has_synced": false,
+      "path": "select/11_Alpha_Female_Dot_Allison.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ALPHA",
+      "artist": "STEREO DIVE FOUNDATION",
+      "has_synced": false,
+      "path": "select/pl_01_ALPHA_STEREO_DIVE_FOUNDATION.txt"
+    }
+  ]
+}
